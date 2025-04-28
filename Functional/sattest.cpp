@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     // Specify the path to a DIMACS CNF file
-    string filename = "C:\\Users\\Lenovo\\Desktop\\UVT\\Sem 2\\MPI Project\\New folder\\Functional\\test.cnf";
+    string filename = "C:\\Users\\Lenovo\\Desktop\\UVT\\Sem 2\\MPI Project\\New folder\\Functional\\DIM\\satdim.cnf";
 
     // Create an instance of SATSolver
     SATSolver solver(filename);
